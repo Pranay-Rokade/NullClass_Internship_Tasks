@@ -1,0 +1,11 @@
+PIL
+cv2
+matplotlib
+mediapipe
+numpy
+os
+scipy
+sklearn
+tensorflow
+time
+visualkeras
